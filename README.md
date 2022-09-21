@@ -12,8 +12,12 @@
 
 ## My current stack
 
-##
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/dendufire)
+## Competitive Programming
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=dendufire99&theme=1)
+
+<a href="https://www.codewars.com/users/dendufire">
+ <img src="https://www.codewars.com/users/dendufire/badges/small" alt="CodeWars">
+</a>
 
 <!---
 dendufire/dendufire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
