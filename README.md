@@ -8,10 +8,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smax294)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dendufire)](https://git.io/streak-stats)
-
-## My current stack
-
 ## Competitive Programming
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=dendufire99&theme=1)
 
