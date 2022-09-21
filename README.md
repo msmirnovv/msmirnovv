@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi 👋
+## My name is Max. 
 
-- 👋 Hi, I’m @dendufire
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📊I'm beginner Data Scientist.
+- ⚽️I like football and basketball.
+- 📚I study at the Bauman Engineering School.
+- 💻Curently I'm learning algorithms and data structures in Tinkoff Generations.
 
 <!---
 dendufire/dendufire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
