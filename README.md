@@ -8,8 +8,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smax294)
 
-## Competitive Programming
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=dendufire99&theme=1)     [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=smax294)](https://github.com/KnlnKS/leetcode-stats)
 
 <!---
 dendufire/dendufire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
