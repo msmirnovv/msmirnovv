@@ -4,7 +4,6 @@
 - 📊I'm beginner Data Scientist.
 - ⚽️I like football and basketball.
 - 📚I study at MIPT.
-- 💻Curently I'm learning algorithms and data structures in Tinkoff Generations.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smax294)
 
