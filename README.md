@@ -1,5 +1,4 @@
 # Hi 👋
-## My name is Max. I'm from Moscow, Russia.
 
 - 📊I'm Backend developer.
 - 📚I'm currently studing at MIPT.
