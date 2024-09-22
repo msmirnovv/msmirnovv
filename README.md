@@ -1,8 +1,7 @@
 # Hi 👋
 ## My name is Max. I'm from Moscow, Russia.
 
-- 📊I'm Backend developer and beginner Data Scientist.
-- ⚽️I love to play sports, going to the gym.
+- 📊I'm Backend developer.
 - 📚I'm currently studing at MIPT.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smax294)
